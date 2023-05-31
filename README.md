@@ -12,7 +12,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ### 🕹 Live Project:
-- https://emmycalculatorapp.netlify.app
+- https://tiagocoder2022.github.io/calc-js/
 
 ## Used Technologies
   
